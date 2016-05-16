@@ -1,0 +1,6 @@
+{
+  "name": "Installing a PocketMine/MCPE Server on CentOS 7 (Linux)",
+  "tagline": "A Tutorial on which to know how to install a MCPE/PocketMine Server",
+  "body": "#Welcome to the Official Site of Installing a PocketMine/MCPE Server on CentOS 7 :D\r\n\r\n>**Please Note:** __All commands must be entered on SSH or the installation will NEVER work.__\r\n\r\n##To start installing please go to \"[Installing PocketMine](https://github.com/CaptainDuck/How-to-install-a-MCPE-PocketMine-server-on-CentOS-7-Linux/wiki/Installing-PocketMine)\" Page.\r\n\r\n##To open a port on a CentOS, Please go to \"[Openning a Port](https://github.com/CaptainDuck/How-to-install-a-MCPE-PocketMine-server-on-CentOS-7-Linux/wiki/Openning-a-Port)\" Page.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
