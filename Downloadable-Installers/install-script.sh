@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 yum install -y perl gcc g++ gcc-c++ make automake libtool autoconf m4 gcc-multilib screen bison
 mkdir server #We Make the Directory "server" for the PocketMine Directory
 cd server #To enter the Directory
