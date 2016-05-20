@@ -8,6 +8,6 @@ A Tutorial on which to know how to install a MCPE/PocketMine Server on CentOS.
 
 >**It also helps on openning a port on firewall..**
 
->**If you want an Automatic MCPE Server Installers.. Visit [This Page](https://github.com/CaptainDuck/MCPE-Installers)
+>**If you want an Automatic MCPE Server Installer.. Visit [This Page](https://github.com/CaptainDuck/MCPE-Installers)**
 
 **To start installing.. [Visit this Page](https://github.com/CaptainDuck/How-to-install-a-MCPE-PocketMine-server-on-CentOS-7-Linux/wiki)**
